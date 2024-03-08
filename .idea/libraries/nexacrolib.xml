@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="nexacrolib" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/main/ui/nexacrolib" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/main/ui/nexacrolib" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="https://docs.tobesoft.com/nexacro_n_v24_ko" />
+    </DOCUMENTATION>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
